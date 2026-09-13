@@ -1,0 +1,8 @@
+networkx
+numpy
+fastapi
+uvicorn
+pytest
+streamlit
+pyvis
+requests

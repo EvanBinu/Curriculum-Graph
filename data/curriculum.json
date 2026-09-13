@@ -1,0 +1,2951 @@
+{
+    "curriculum_version": "CSE-2023-onwards",
+    "nodes": [
+        {
+            "id": "23CSE101",
+            "type": "Course",
+            "name": "Computational Problem Solving",
+            "semester": 1,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE201",
+            "type": "Course",
+            "name": "Procedural Programming using C",
+            "semester": 3,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE202",
+            "type": "Course",
+            "name": "Database Management Systems",
+            "semester": 3,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE203",
+            "type": "Course",
+            "name": "Data Structures and Algorithms",
+            "semester": 3,
+            "ltp": "3-1-2",
+            "credits": 5
+        },
+        {
+            "id": "23CSE211",
+            "type": "Course",
+            "name": "Design and Analysis of Algorithms",
+            "semester": 4,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE214",
+            "type": "Course",
+            "name": "Operating Systems",
+            "semester": 4,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE301",
+            "type": "Course",
+            "name": "Machine Learning",
+            "semester": 5,
+            "ltp": "3-0-2",
+            "credits": 4
+        },
+        {
+            "id": "23CSE302",
+            "type": "Course",
+            "name": "Computer Networks",
+            "semester": 5,
+            "ltp": "3-1-2",
+            "credits": 5
+        },
+        {
+            "id": "topic_23CSE101_problem_solving",
+            "type": "Topic",
+            "name": "Problem Solving and Algorithmic Thinking",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_algorithms",
+            "type": "Topic",
+            "name": "Algorithms",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_sequence",
+            "type": "Topic",
+            "name": "Sequence",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_selection",
+            "type": "Topic",
+            "name": "Selection",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_repetition",
+            "type": "Topic",
+            "name": "Repetition",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_algorithm_design",
+            "type": "Topic",
+            "name": "Designing Algorithms",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_logical_reasoning",
+            "type": "Topic",
+            "name": "Logical Reasoning",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_python",
+            "type": "Topic",
+            "name": "Python",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_lists_arrays",
+            "type": "Topic",
+            "name": "Lists and Arrays",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_dictionaries",
+            "type": "Topic",
+            "name": "Dictionaries",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_functions",
+            "type": "Topic",
+            "name": "Functions",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_recursion",
+            "type": "Topic",
+            "name": "Recursion",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_files",
+            "type": "Topic",
+            "name": "Files",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_debugging",
+            "type": "Topic",
+            "name": "Debugging",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_searching",
+            "type": "Topic",
+            "name": "Searching",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_sorting",
+            "type": "Topic",
+            "name": "Sorting",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_text_processing",
+            "type": "Topic",
+            "name": "Text Processing",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE101_data_processing",
+            "type": "Topic",
+            "name": "Data Processing and Analysis",
+            "course": "23CSE101"
+        },
+        {
+            "id": "topic_23CSE201_physical_computing",
+            "type": "Topic",
+            "name": "Physical Computing",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_arduino",
+            "type": "Topic",
+            "name": "Arduino Hardware and Software Architecture",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_c_programming",
+            "type": "Topic",
+            "name": "C Programming",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_data_types",
+            "type": "Topic",
+            "name": "Data Types",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_io",
+            "type": "Topic",
+            "name": "Input and Output",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_control",
+            "type": "Topic",
+            "name": "Control Structures",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_arrays",
+            "type": "Topic",
+            "name": "Arrays",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_functions",
+            "type": "Topic",
+            "name": "Functions",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_storage_scope",
+            "type": "Topic",
+            "name": "Storage Classes and Scope",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_recursion",
+            "type": "Topic",
+            "name": "Recursion",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_pointers",
+            "type": "Topic",
+            "name": "Pointers",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_dynamic_memory",
+            "type": "Topic",
+            "name": "Dynamic Memory Allocation",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_structures",
+            "type": "Topic",
+            "name": "Structures",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_unions",
+            "type": "Topic",
+            "name": "Unions",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_strings",
+            "type": "Topic",
+            "name": "Strings",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE201_files_streams",
+            "type": "Topic",
+            "name": "Files and Streams",
+            "course": "23CSE201"
+        },
+        {
+            "id": "topic_23CSE202_dbms_fundamentals",
+            "type": "Topic",
+            "name": "DBMS Fundamentals",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_relational_database",
+            "type": "Topic",
+            "name": "Relational Databases",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_keys",
+            "type": "Topic",
+            "name": "Database Keys",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_relational_model",
+            "type": "Topic",
+            "name": "Relational Data Model",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_database_schema",
+            "type": "Topic",
+            "name": "Database Schema",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_er_model",
+            "type": "Topic",
+            "name": "E-R Models",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_er_diagrams",
+            "type": "Topic",
+            "name": "E-R Diagrams",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_relational_design",
+            "type": "Topic",
+            "name": "Relational Database Design",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_normalization",
+            "type": "Topic",
+            "name": "Normalization",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_functional_dependencies",
+            "type": "Topic",
+            "name": "Functional Dependencies",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_2nf",
+            "type": "Topic",
+            "name": "2NF",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_3nf",
+            "type": "Topic",
+            "name": "3NF",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_bcnf",
+            "type": "Topic",
+            "name": "BCNF",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_sql",
+            "type": "Topic",
+            "name": "SQL",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_indexing",
+            "type": "Topic",
+            "name": "Indexing",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_hashing",
+            "type": "Topic",
+            "name": "Hashing",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_transactions",
+            "type": "Topic",
+            "name": "Transactions",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_acid",
+            "type": "Topic",
+            "name": "ACID Properties",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_serializability",
+            "type": "Topic",
+            "name": "Serializability",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_concurrency",
+            "type": "Topic",
+            "name": "Concurrency Control",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_nosql",
+            "type": "Topic",
+            "name": "NoSQL Databases",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_mongodb",
+            "type": "Topic",
+            "name": "MongoDB",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE202_neo4j",
+            "type": "Topic",
+            "name": "Neo4j / Graph Databases",
+            "course": "23CSE202"
+        },
+        {
+            "id": "topic_23CSE203_complexity",
+            "type": "Topic",
+            "name": "Complexity Analysis",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_asymptotic",
+            "type": "Topic",
+            "name": "Asymptotic Analysis",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_arrays",
+            "type": "Topic",
+            "name": "Arrays",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_linked_lists",
+            "type": "Topic",
+            "name": "Linked Lists",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_stacks",
+            "type": "Topic",
+            "name": "Stacks",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_queues",
+            "type": "Topic",
+            "name": "Queues",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_trees",
+            "type": "Topic",
+            "name": "Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_binary_trees",
+            "type": "Topic",
+            "name": "Binary Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_tree_traversals",
+            "type": "Topic",
+            "name": "Tree Traversals",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_priority_queues",
+            "type": "Topic",
+            "name": "Priority Queues",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_heaps",
+            "type": "Topic",
+            "name": "Heaps",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_maps",
+            "type": "Topic",
+            "name": "Maps",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_hash_tables",
+            "type": "Topic",
+            "name": "Hash Tables",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_skip_lists",
+            "type": "Topic",
+            "name": "Skip Lists",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_bst",
+            "type": "Topic",
+            "name": "Binary Search Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_avl",
+            "type": "Topic",
+            "name": "AVL Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_segment_trees",
+            "type": "Topic",
+            "name": "Segment Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_b_trees",
+            "type": "Topic",
+            "name": "B-Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_external_memory",
+            "type": "Topic",
+            "name": "External Memory",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_graphs",
+            "type": "Topic",
+            "name": "Graphs",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_graph_traversal",
+            "type": "Topic",
+            "name": "Graph Traversal",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_dag",
+            "type": "Topic",
+            "name": "Directed Acyclic Graphs",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_shortest_paths",
+            "type": "Topic",
+            "name": "Shortest Paths",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_mst",
+            "type": "Topic",
+            "name": "Minimum Spanning Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_greedy_mst",
+            "type": "Topic",
+            "name": "Greedy Methods for MST",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_persistent",
+            "type": "Topic",
+            "name": "Persistent Data Structures",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_bloom_filter",
+            "type": "Topic",
+            "name": "Bloom Filter",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE203_game_trees",
+            "type": "Topic",
+            "name": "Game Trees",
+            "course": "23CSE203"
+        },
+        {
+            "id": "topic_23CSE211_asymptotic",
+            "type": "Topic",
+            "name": "Asymptotic Notation",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_recurrence",
+            "type": "Topic",
+            "name": "Recurrence Relations",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_master_method",
+            "type": "Topic",
+            "name": "Master Method",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_sorting",
+            "type": "Topic",
+            "name": "Sorting Algorithms",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_graph_algorithms",
+            "type": "Topic",
+            "name": "Graph Algorithms",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_bfs",
+            "type": "Topic",
+            "name": "BFS",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_dfs",
+            "type": "Topic",
+            "name": "DFS",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_topological_sort",
+            "type": "Topic",
+            "name": "Topological Sort",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_shortest_path",
+            "type": "Topic",
+            "name": "Shortest Path Algorithms",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_bellman_ford",
+            "type": "Topic",
+            "name": "Bellman-Ford",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_floyd_warshall",
+            "type": "Topic",
+            "name": "Floyd-Warshall",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_mst",
+            "type": "Topic",
+            "name": "Minimum Spanning Trees",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_divide_conquer",
+            "type": "Topic",
+            "name": "Divide and Conquer",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_merge_sort",
+            "type": "Topic",
+            "name": "Merge Sort",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_quick_sort",
+            "type": "Topic",
+            "name": "Quick Sort",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_binary_search",
+            "type": "Topic",
+            "name": "Binary Search",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_greedy",
+            "type": "Topic",
+            "name": "Greedy Algorithms",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_fractional_knapsack",
+            "type": "Topic",
+            "name": "Fractional Knapsack",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_task_scheduling",
+            "type": "Topic",
+            "name": "Task Scheduling",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_huffman",
+            "type": "Topic",
+            "name": "Huffman Coding",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_dynamic_programming",
+            "type": "Topic",
+            "name": "Dynamic Programming",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_fibonacci",
+            "type": "Topic",
+            "name": "Fibonacci Numbers",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_knapsack",
+            "type": "Topic",
+            "name": "0-1 Knapsack",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_matrix_chain",
+            "type": "Topic",
+            "name": "Matrix Chain Multiplication",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_lcs",
+            "type": "Topic",
+            "name": "Longest Common Subsequence",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_backtracking",
+            "type": "Topic",
+            "name": "Backtracking",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_branch_bound",
+            "type": "Topic",
+            "name": "Branch and Bound",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_string_matching",
+            "type": "Topic",
+            "name": "String Matching",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_rabin_karp",
+            "type": "Topic",
+            "name": "Rabin-Karp",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_boyer_moore",
+            "type": "Topic",
+            "name": "Boyer-Moore",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_kmp",
+            "type": "Topic",
+            "name": "KMP",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_network_flow",
+            "type": "Topic",
+            "name": "Network Flow",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_max_flow",
+            "type": "Topic",
+            "name": "Maximum Flow",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_matching",
+            "type": "Topic",
+            "name": "Bipartite Matching",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_np",
+            "type": "Topic",
+            "name": "P and NP",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_np_complete",
+            "type": "Topic",
+            "name": "NP-Complete Problems",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_np_hard",
+            "type": "Topic",
+            "name": "NP-Hard Problems",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_heuristic",
+            "type": "Topic",
+            "name": "Heuristic Searching",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_hill_climbing",
+            "type": "Topic",
+            "name": "Hill Climbing",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_gradient_descent",
+            "type": "Topic",
+            "name": "Gradient Descent",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE211_parallel_algorithms",
+            "type": "Topic",
+            "name": "Parallel Algorithms",
+            "course": "23CSE211"
+        },
+        {
+            "id": "topic_23CSE214_os_services",
+            "type": "Topic",
+            "name": "Operating System Services",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_system_calls",
+            "type": "Topic",
+            "name": "System Calls",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_system_structure",
+            "type": "Topic",
+            "name": "System Structure",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_virtual_machines",
+            "type": "Topic",
+            "name": "Virtual Machines",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_processes",
+            "type": "Topic",
+            "name": "Processes",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_process_creation",
+            "type": "Topic",
+            "name": "Process Creation",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_process_scheduling",
+            "type": "Topic",
+            "name": "Process Scheduling",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_ipc",
+            "type": "Topic",
+            "name": "Inter-Process Communication",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_multithreading",
+            "type": "Topic",
+            "name": "Multithreading",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_cpu_scheduling",
+            "type": "Topic",
+            "name": "CPU Scheduling",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_synchronization",
+            "type": "Topic",
+            "name": "Process Synchronization",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_semaphores",
+            "type": "Topic",
+            "name": "Semaphores",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_monitors",
+            "type": "Topic",
+            "name": "Monitors",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_deadlocks",
+            "type": "Topic",
+            "name": "Deadlocks",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_memory_management",
+            "type": "Topic",
+            "name": "Memory Management",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_paging",
+            "type": "Topic",
+            "name": "Paging",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_segmentation",
+            "type": "Topic",
+            "name": "Segmentation",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_virtual_memory",
+            "type": "Topic",
+            "name": "Virtual Memory",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_page_replacement",
+            "type": "Topic",
+            "name": "Page Replacement",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_file_systems",
+            "type": "Topic",
+            "name": "File Systems",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_directory",
+            "type": "Topic",
+            "name": "Directory Structure",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_disk_management",
+            "type": "Topic",
+            "name": "Disk Management",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE214_disk_scheduling",
+            "type": "Topic",
+            "name": "Disk Scheduling",
+            "course": "23CSE214"
+        },
+        {
+            "id": "topic_23CSE301_ml_fundamentals",
+            "type": "Topic",
+            "name": "Introduction to Machine Learning",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_types",
+            "type": "Topic",
+            "name": "Types of Machine Learning",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_training",
+            "type": "Topic",
+            "name": "Training",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_validation",
+            "type": "Topic",
+            "name": "Validation and Testing",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_generalization",
+            "type": "Topic",
+            "name": "Generalization",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_overfitting",
+            "type": "Topic",
+            "name": "Overfitting",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_underfitting",
+            "type": "Topic",
+            "name": "Underfitting",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_loss",
+            "type": "Topic",
+            "name": "Loss / Cost Function",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_explainability",
+            "type": "Topic",
+            "name": "Explainability",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_bias",
+            "type": "Topic",
+            "name": "Algorithmic Bias",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_dimensionality",
+            "type": "Topic",
+            "name": "Curse of Dimensionality",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_pca",
+            "type": "Topic",
+            "name": "Principal Component Analysis",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_lda",
+            "type": "Topic",
+            "name": "Linear Discriminant Analysis",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_feature_selection",
+            "type": "Topic",
+            "name": "Feature Selection",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_knn",
+            "type": "Topic",
+            "name": "K-Nearest Neighbour",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_linear_regression",
+            "type": "Topic",
+            "name": "Linear Regression",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_logistic_regression",
+            "type": "Topic",
+            "name": "Logistic Regression",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_regularization",
+            "type": "Topic",
+            "name": "Regularization",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_lasso",
+            "type": "Topic",
+            "name": "LASSO",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_ridge",
+            "type": "Topic",
+            "name": "Ridge",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_metrics",
+            "type": "Topic",
+            "name": "Classifier Performance Metrics",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_decision_tree",
+            "type": "Topic",
+            "name": "Decision Trees",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_svm",
+            "type": "Topic",
+            "name": "Support Vector Machines",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_naive_bayes",
+            "type": "Topic",
+            "name": "Naive Bayes",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_markov",
+            "type": "Topic",
+            "name": "Markov Model",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_hmm",
+            "type": "Topic",
+            "name": "Hidden Markov Model",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_ann",
+            "type": "Topic",
+            "name": "Artificial Neural Networks",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_perceptron",
+            "type": "Topic",
+            "name": "Perceptron",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_mlp",
+            "type": "Topic",
+            "name": "MLP",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_clustering",
+            "type": "Topic",
+            "name": "Clustering",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_kmeans",
+            "type": "Topic",
+            "name": "K-Means",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_ensemble",
+            "type": "Topic",
+            "name": "Ensemble Learning",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_bagging",
+            "type": "Topic",
+            "name": "Bagging",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_boosting",
+            "type": "Topic",
+            "name": "Boosting",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_adaboost",
+            "type": "Topic",
+            "name": "AdaBoost",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_random_forest",
+            "type": "Topic",
+            "name": "Random Forest",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE301_reinforcement",
+            "type": "Topic",
+            "name": "Reinforcement Learning",
+            "course": "23CSE301"
+        },
+        {
+            "id": "topic_23CSE302_network_edge",
+            "type": "Topic",
+            "name": "Network Edge",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_network_core",
+            "type": "Topic",
+            "name": "Network Core",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_network_topology",
+            "type": "Topic",
+            "name": "Network Topology",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_packet_switching",
+            "type": "Topic",
+            "name": "Packet Switching",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_protocol_layers",
+            "type": "Topic",
+            "name": "Protocol Layers",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_http",
+            "type": "Topic",
+            "name": "HTTP",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_ftp",
+            "type": "Topic",
+            "name": "FTP",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_dns",
+            "type": "Topic",
+            "name": "DNS",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_p2p",
+            "type": "Topic",
+            "name": "Peer-to-Peer Applications",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_video_streaming",
+            "type": "Topic",
+            "name": "Video Streaming",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_udp",
+            "type": "Topic",
+            "name": "UDP",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_tcp",
+            "type": "Topic",
+            "name": "TCP",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_congestion_control",
+            "type": "Topic",
+            "name": "TCP Congestion Control",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_ip",
+            "type": "Topic",
+            "name": "Internet Protocol",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_forwarding",
+            "type": "Topic",
+            "name": "IP Forwarding and Addressing",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_routing",
+            "type": "Topic",
+            "name": "Routing Algorithms",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_broadcast_multicast",
+            "type": "Topic",
+            "name": "Broadcast and Multicast Routing",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_error_detection",
+            "type": "Topic",
+            "name": "Error Detection and Correction",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_multiple_access",
+            "type": "Topic",
+            "name": "Multiple Access Protocols",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_ethernet",
+            "type": "Topic",
+            "name": "Ethernet",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_link_switches",
+            "type": "Topic",
+            "name": "Link-Layer Switches",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_sdn",
+            "type": "Topic",
+            "name": "Software Defined Networks",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE302_data_center",
+            "type": "Topic",
+            "name": "Data Center Networking",
+            "course": "23CSE302"
+        },
+        {
+            "id": "topic_23CSE101_prereq_note",
+            "type": "Topic",
+            "name": "Algorithmic Thinking Foundations",
+            "course": "23CSE101"
+        }
+    ],
+    "edges": [
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_problem_solving",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_algorithms",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_sequence",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_selection",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_repetition",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_algorithm_design",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_python",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_lists_arrays",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_dictionaries",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_functions",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_recursion",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_files",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_debugging",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_searching",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_sorting",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_text_processing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE101",
+            "target": "topic_23CSE101_data_processing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_physical_computing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_arduino",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_c_programming",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_data_types",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_io",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_control",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_arrays",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_functions",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_storage_scope",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_recursion",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_pointers",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_dynamic_memory",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_structures",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_unions",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_strings",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE201",
+            "target": "topic_23CSE201_files_streams",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_dbms_fundamentals",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_relational_database",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_keys",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_relational_model",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_database_schema",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_er_model",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_er_diagrams",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_relational_design",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_normalization",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_functional_dependencies",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_2nf",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_3nf",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_bcnf",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_sql",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_indexing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_hashing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_transactions",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_acid",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_serializability",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_concurrency",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_nosql",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_mongodb",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE202",
+            "target": "topic_23CSE202_neo4j",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_complexity",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_asymptotic",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_arrays",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_linked_lists",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_stacks",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_queues",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_trees",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_binary_trees",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_tree_traversals",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_priority_queues",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_heaps",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_maps",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_hash_tables",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_skip_lists",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_bst",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_avl",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_segment_trees",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_b_trees",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_external_memory",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_graphs",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_graph_traversal",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_dag",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_shortest_paths",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_mst",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_greedy_mst",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_persistent",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_bloom_filter",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE203",
+            "target": "topic_23CSE203_game_trees",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_asymptotic",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_recurrence",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_master_method",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_sorting",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_graph_algorithms",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_bfs",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_dfs",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_topological_sort",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_shortest_path",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_bellman_ford",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_floyd_warshall",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_mst",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_divide_conquer",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_merge_sort",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_quick_sort",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_binary_search",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_greedy",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_fractional_knapsack",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_task_scheduling",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_huffman",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_dynamic_programming",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_fibonacci",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_knapsack",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_matrix_chain",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_lcs",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_backtracking",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_branch_bound",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_string_matching",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_rabin_karp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_boyer_moore",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_kmp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_network_flow",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_max_flow",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_matching",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_np",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_np_complete",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_np_hard",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_heuristic",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_hill_climbing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_gradient_descent",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE211",
+            "target": "topic_23CSE211_parallel_algorithms",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_os_services",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_system_calls",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_system_structure",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_virtual_machines",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_processes",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_process_creation",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_process_scheduling",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_ipc",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_multithreading",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_cpu_scheduling",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_synchronization",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_semaphores",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_monitors",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_deadlocks",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_memory_management",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_paging",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_segmentation",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_virtual_memory",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_page_replacement",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_file_systems",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_directory",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_disk_management",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE214",
+            "target": "topic_23CSE214_disk_scheduling",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_ml_fundamentals",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_types",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_training",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_validation",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_generalization",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_overfitting",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_underfitting",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_loss",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_explainability",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_bias",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_dimensionality",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_pca",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_lda",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_feature_selection",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_knn",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_linear_regression",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_logistic_regression",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_regularization",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_lasso",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_ridge",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_metrics",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_decision_tree",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_svm",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_naive_bayes",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_markov",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_hmm",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_ann",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_perceptron",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_mlp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_clustering",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_kmeans",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_ensemble",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_bagging",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_boosting",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_adaboost",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_random_forest",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE301",
+            "target": "topic_23CSE301_reinforcement",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_network_edge",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_network_core",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_network_topology",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_packet_switching",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_protocol_layers",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_http",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_ftp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_dns",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_p2p",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_video_streaming",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_udp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_tcp",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_congestion_control",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_ip",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_forwarding",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_routing",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_broadcast_multicast",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_error_detection",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_multiple_access",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_ethernet",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_link_switches",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_sdn",
+            "type": "Contains"
+        },
+        {
+            "source": "23CSE302",
+            "target": "topic_23CSE302_data_center",
+            "type": "Contains"
+        },
+        {
+            "source": "topic_23CSE101_problem_solving",
+            "target": "topic_23CSE101_algorithms",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_algorithms",
+            "target": "topic_23CSE101_algorithm_design",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_sequence",
+            "target": "topic_23CSE101_selection",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_selection",
+            "target": "topic_23CSE101_repetition",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_lists_arrays",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_functions",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_functions",
+            "target": "topic_23CSE101_recursion",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_lists_arrays",
+            "target": "topic_23CSE101_searching",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_lists_arrays",
+            "target": "topic_23CSE101_sorting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_dictionaries",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_text_processing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_text_processing",
+            "target": "topic_23CSE101_data_processing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_problem_solving",
+            "target": "topic_23CSE101_algorithms",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_algorithms",
+            "target": "topic_23CSE101_algorithm_design",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_sequence",
+            "target": "topic_23CSE101_selection",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_selection",
+            "target": "topic_23CSE101_repetition",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_lists_arrays",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_functions",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_functions",
+            "target": "topic_23CSE101_recursion",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_lists_arrays",
+            "target": "topic_23CSE101_searching",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_lists_arrays",
+            "target": "topic_23CSE101_sorting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_dictionaries",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_python",
+            "target": "topic_23CSE101_text_processing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE101_text_processing",
+            "target": "topic_23CSE101_data_processing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_dbms_fundamentals",
+            "target": "topic_23CSE202_relational_database",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_database",
+            "target": "topic_23CSE202_relational_model",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_model",
+            "target": "topic_23CSE202_keys",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_model",
+            "target": "topic_23CSE202_database_schema",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_dbms_fundamentals",
+            "target": "topic_23CSE202_er_model",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_er_model",
+            "target": "topic_23CSE202_er_diagrams",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_er_diagrams",
+            "target": "topic_23CSE202_relational_design",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_design",
+            "target": "topic_23CSE202_functional_dependencies",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_functional_dependencies",
+            "target": "topic_23CSE202_2nf",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_2nf",
+            "target": "topic_23CSE202_3nf",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_3nf",
+            "target": "topic_23CSE202_bcnf",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_model",
+            "target": "topic_23CSE202_sql",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_relational_model",
+            "target": "topic_23CSE202_indexing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_indexing",
+            "target": "topic_23CSE202_hashing",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_sql",
+            "target": "topic_23CSE202_transactions",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_transactions",
+            "target": "topic_23CSE202_acid",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_transactions",
+            "target": "topic_23CSE202_serializability",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_serializability",
+            "target": "topic_23CSE202_concurrency",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_dbms_fundamentals",
+            "target": "topic_23CSE202_nosql",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_nosql",
+            "target": "topic_23CSE202_mongodb",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE202_nosql",
+            "target": "topic_23CSE202_neo4j",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_complexity",
+            "target": "topic_23CSE203_asymptotic",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_arrays",
+            "target": "topic_23CSE203_linked_lists",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_linked_lists",
+            "target": "topic_23CSE203_stacks",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_linked_lists",
+            "target": "topic_23CSE203_queues",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_trees",
+            "target": "topic_23CSE203_binary_trees",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_binary_trees",
+            "target": "topic_23CSE203_tree_traversals",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_binary_trees",
+            "target": "topic_23CSE203_bst",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_bst",
+            "target": "topic_23CSE203_avl",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_priority_queues",
+            "target": "topic_23CSE203_heaps",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_maps",
+            "target": "topic_23CSE203_hash_tables",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_trees",
+            "target": "topic_23CSE203_segment_trees",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_trees",
+            "target": "topic_23CSE203_b_trees",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_b_trees",
+            "target": "topic_23CSE203_external_memory",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_graphs",
+            "target": "topic_23CSE203_graph_traversal",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_graph_traversal",
+            "target": "topic_23CSE203_dag",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_graph_traversal",
+            "target": "topic_23CSE203_shortest_paths",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_graphs",
+            "target": "topic_23CSE203_mst",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE203_mst",
+            "target": "topic_23CSE203_greedy_mst",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_asymptotic",
+            "target": "topic_23CSE211_recurrence",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_recurrence",
+            "target": "topic_23CSE211_master_method",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_asymptotic",
+            "target": "topic_23CSE211_sorting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_sorting",
+            "target": "topic_23CSE211_divide_conquer",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_divide_conquer",
+            "target": "topic_23CSE211_merge_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_divide_conquer",
+            "target": "topic_23CSE211_quick_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_sorting",
+            "target": "topic_23CSE211_binary_search",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_bfs",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_dfs",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_dfs",
+            "target": "topic_23CSE211_topological_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_shortest_path",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_mst",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_greedy",
+            "target": "topic_23CSE211_fractional_knapsack",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_greedy",
+            "target": "topic_23CSE211_task_scheduling",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_asymptotic",
+            "target": "topic_23CSE211_recurrence",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_recurrence",
+            "target": "topic_23CSE211_master_method",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_asymptotic",
+            "target": "topic_23CSE211_sorting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_sorting",
+            "target": "topic_23CSE211_divide_conquer",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_divide_conquer",
+            "target": "topic_23CSE211_merge_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_divide_conquer",
+            "target": "topic_23CSE211_quick_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_sorting",
+            "target": "topic_23CSE211_binary_search",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_bfs",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_dfs",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_dfs",
+            "target": "topic_23CSE211_topological_sort",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_shortest_path",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_graph_algorithms",
+            "target": "topic_23CSE211_mst",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_greedy",
+            "target": "topic_23CSE211_fractional_knapsack",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE211_greedy",
+            "target": "topic_23CSE211_task_scheduling",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_ml_fundamentals",
+            "target": "topic_23CSE301_types",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_types",
+            "target": "topic_23CSE301_training",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_training",
+            "target": "topic_23CSE301_validation",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_training",
+            "target": "topic_23CSE301_generalization",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_generalization",
+            "target": "topic_23CSE301_overfitting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_generalization",
+            "target": "topic_23CSE301_underfitting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_training",
+            "target": "topic_23CSE301_mlp",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_types",
+            "target": "topic_23CSE301_clustering",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_clustering",
+            "target": "topic_23CSE301_kmeans",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_types",
+            "target": "topic_23CSE301_ensemble",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_ensemble",
+            "target": "topic_23CSE301_bagging",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_ensemble",
+            "target": "topic_23CSE301_boosting",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_boosting",
+            "target": "topic_23CSE301_adaboost",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_bagging",
+            "target": "topic_23CSE301_random_forest",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE301_types",
+            "target": "topic_23CSE301_reinforcement",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_network_edge",
+            "target": "topic_23CSE302_network_core",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_network_topology",
+            "target": "topic_23CSE302_packet_switching",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_packet_switching",
+            "target": "topic_23CSE302_protocol_layers",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_http",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_ftp",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_dns",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_udp",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_tcp",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_udp",
+            "target": "topic_23CSE302_video_streaming",
+            "type": "Prerequisite"
+        },
+        {
+            "source": "topic_23CSE302_protocol_layers",
+            "target": "topic_23CSE302_p2p",
+            "type": "Prerequisite"
+        }
+    ]
+}
